@@ -1,6 +1,8 @@
 # serialport_test
 connect ROS and serialport
 
-test123
+clone the package to ROS workspace,then use catkin_make
 
-test321
+modify your baudrate and port which you are using
+
+use rosrun serialport_test  serialport_test
